@@ -1,7 +1,6 @@
-# titre
-**la ville de demain**
-* pomme
-* poire
-* abricot
-* kiwi
+# Qui-suis-je ?
+* Idrissa M'boup
+* Urbaniste-Géographe indépendant
+* Basé à Nantes, mais itinérant
+
 
